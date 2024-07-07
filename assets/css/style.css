@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+.bg-pink{
+    background-color: #e83e8c;
+}
+
+.font-pink{
+    color: #707070;
+}
+
+.section-title{
+    font-weight: bold;
+    font-size: 35px;
+    color: #707070;
+    padding: 30px;
+}
+#main div{
+    width: 100%;
+   
+}
